@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @stefanocasafranca
-- 👀 I’m interested in Creative Coding
-- 🌱 I’m currently learning C# on RhinoGrasshopper and Unity XR Development
-- 💞️ I’m looking to collaborate on Ultraleap Developing
+- 🌱 I’m currently learning HTML5 and CSS but looking forward to implement Threejs. or C# for Rhino(Grasshopper) and Unity XR Development
 - 📫 How to reach me ...scasafrancal01@gmail.com
