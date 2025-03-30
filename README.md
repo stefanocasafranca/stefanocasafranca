@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @stefanocasafranca
+- 👋 Hi, I’m @stefanocasafranca Industrial and UX Designer 
 - 🌱 I’m currently learning Swift and SwiftUI
-- 📫 How to reach me ...scasafrancal01@gmail.com
+- 📫 If you are developing for VisionOS and need FREE help contact me here...scasafrancal01@gmail.com
