@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @stefanocasafranca Industrial and UX Designer 
-- 🌱 I’m currently learning React / JS / Swift / SwiftUI
-- 📫 If you are developing for VisionOS and need FREE help contact me here: scasafrancal01@gmail.com
+- 👋 Hi, I’m @stefanocasafranca UX & Product Designer 📍 Based in Austin TX.
+- 🌱 I’m currently learning TypeScript / React / JS / Swift / SwiftUI / Flutter
+
+- 📫 Looking forward to learn more about LangChain,LangGraph & LangSmith this 2026.
+-  If you are developing for VisionOS and need FREE help contact me here: scasafrancal01@gmail.com
   or via LinkedIn: https://www.linkedin.com/in/stefano-casafranca-laos-/
-- 📍 Based in Austin TX.
